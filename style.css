@@ -2,3 +2,10 @@ h1{
     color: springgreen;
     background: linear-gradient(180deg , green , blue , wheat);
 }
+#img{
+    /* filter: blur(2px); */
+    /* filter: invert(100%); */
+    /* filter: brightness(900%); */
+    /* filter: sepia(90%); */
+    filter: hue-rotate(90deg);
+}
